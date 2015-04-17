@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Desktop/libs/turnrestrictions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Desktop/josm-tested (4).jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Desktop/libs/contourmerge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Desktop/libs/touchscreenhelper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
